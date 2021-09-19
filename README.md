@@ -6,7 +6,7 @@
   
   My first project, it's a Discord Bot. Currently I'm studying JavaScript, so, when I'm ready I will finish this project and continue to update ever that left me time.
 
-  <img src="https://img.shields.io/github/stars/italohikikomori/jettzinha.svg" target="_blank"/>
+  <img src="https://img.shields.io/github/stars/italohikikomori/jettzinha.svg"/>
   <img src="https://img.shields.io/github/followers/italohikikomori.svg?style=social&label=Follow"/>
   <img src="https://img.shields.io/twitter/follow/italohikikomori?style=social"/>
   
