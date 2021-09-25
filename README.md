@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300px" width="300px" src="https://cdn.discordapp.com/attachments/888890876267479062/889231856204128336/Jett_-_Revive_me_render.png"/>
+  <img height="300px" width="300px" src="https://i.ibb.co/fCy3bSZ/Jett-Revive-me-render.png"/>
 
   # Jettzinha — Discord Bot
   ### Revive me Jett.
