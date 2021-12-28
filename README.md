@@ -8,7 +8,7 @@
 
   <a href="https://github.com/italohikikomori/jettzinha"><img src="https://img.shields.io/github/stars/italohikikomori/jettzinha.svg"/></a>
   <a href="https://github.com/italohikikomori"><img src="https://img.shields.io/github/followers/italohikikomori.svg?style=social&label=Follow"/></a>
-  <a href="https://twitter.com/italohikikomori"><img src="https://img.shields.io/twitter/follow/italohikikomori?style=social"/></a>
+  <a href="https://twitter.com/sorinhafps"><img src="https://img.shields.io/twitter/follow/sorinhafps?style=social"/></a>
   
   <a href="https://discord.com/api/oauth2/authorize?client_id=886474007757590528&permissions=8&scope=bot" target="_blank">Add the bot on your Discord Server</a>
 </div>
@@ -26,4 +26,4 @@
 
 #
 
-Made with love by [Ítalo H.](https://twitter.com/italohikikomori) 💖
+Made with love by [Ítalo H.](https://twitter.com/sorinhafps) 💖
