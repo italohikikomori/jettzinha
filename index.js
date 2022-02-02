@@ -12,7 +12,7 @@ jettzinha.once('ready', () => {
         'Revive me Jett',
         {
             type: 'STREAMING',
-            url: 'https://www.twitch.tv/sorinha_'
+            url: 'https://www.twitch.tv/sorinhafps'
         }
     )
 })
